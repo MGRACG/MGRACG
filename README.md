@@ -1,0 +1,4 @@
+- 👋 大家好啊，我是 @MGRACG，一个普通的ACGN爱好者
+- 💖 更多内容请访问我的网站：https://www.mgracg.com
+- 🌱 我正在学习 Jekyll, HTML, JS 和 C#，可以多多交流哦
+- 📫 联系方式: mgracg@outlook.com
